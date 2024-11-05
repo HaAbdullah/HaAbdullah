@@ -5,7 +5,7 @@ Computer Science Student @ Toronto Metropolitan University
 - ✉️ Reach out to me with [email](mailto:abdullah.hasanjee@gmail.com)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,react,js,flask,html,css,git,react,postgres,figma" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,react,flask,html,css,js,git,react,postgres,figma" alt="My Skills">
   </a>
 </p>
 
