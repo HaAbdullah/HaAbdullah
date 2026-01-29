@@ -1,6 +1,6 @@
 # Hi, I am Abdullah Hasanjee 👋
 Computer Science Student @ Toronto Metropolitan University 
-- 🌐 Visit my personal [website]([https://haabdullah.github.io/me/](https://abdullahhasanjee.vercel.app/))
+- 🌐 Visit my personal [website](https://abdullahhasanjee.vercel.app/))
 - ✍️ Connect with me on [linkedIn](https://www.linkedin.com/in/abdullah-hasanjee/)
 - ✉️ Reach out to me with [email](mailto:abdullah.hasanjee@gmail.com)
 <p align="center">
